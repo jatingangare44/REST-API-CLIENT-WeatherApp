@@ -36,6 +36,20 @@ This is a **Java Swing-based GUI application** that consumes a **public REST API
 
 ---
 
+## ✅ Output
+
+![Image](https://github.com/user-attachments/assets/67377c21-b6bc-4a45-87bc-1e05eb8df886)
+
+![Image](https://github.com/user-attachments/assets/39babda6-b51a-4ee3-9ca8-89800d7ec627)
+
+![Image](https://github.com/user-attachments/assets/34a54a83-c042-4a4a-a969-849aab402eaf)
+
+![Image](https://github.com/user-attachments/assets/279444ab-18e7-4888-9fbf-8ca0c2ec06ff)
+
+![Image](https://github.com/user-attachments/assets/ab1da58c-3c82-437c-a9ad-66b1c24b685f)
+
+---
+
 ## 🛠️ How to Run
 
 1. **Clone or download** the repository.
